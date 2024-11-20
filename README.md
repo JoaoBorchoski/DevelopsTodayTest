@@ -22,8 +22,8 @@ Before running the project, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/JoaoBorchoski/DevelopsTodayTest.git)
+cd DevelopsTodayTest
 ```
 
 ### Backend Setup
